@@ -1,1 +1,1 @@
-echo Merry Christmass, 
+echo Merry Christmass, %1
